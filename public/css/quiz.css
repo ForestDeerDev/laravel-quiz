@@ -1,0 +1,9 @@
+h1{text-align: center;}
+.box{
+    margin: auto;
+    border: solid 1px black;
+    margin-top: 5%;
+    width: 400px;
+    height: 250px;
+    text-align: center;
+}
